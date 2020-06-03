@@ -1007,6 +1007,9 @@ ul.is-unstyled, ul.unstyled {
 .w150p {
   width: 150px; }
 
+.w165p {
+  width: 165px; }
+
 .w200p {
   width: 200px; }
 
@@ -2161,7 +2164,7 @@ button.main-cta {
   padding: 0 10px; }
   @media screen and (min-width: 544px) {
     button.main-cta {
-      padding: 0 15px; } }
+      padding: 0 8px; } }
 
 .is-sticky button.main-cta {
   height: 48px;
