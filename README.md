@@ -17,9 +17,11 @@ You can go through this [guide](https://opensource.guide/how-to-contribute/#open
 
 ## To run the website in a local (Unix) environment
 
-`git clone git@github.com:lionel-k/burundiarxiv.git`
-`cd burundiarxiv`
-`python -m SimpleHTTPServer 8000`
+```bash
+git clone git@github.com:lionel-k/burundiarxiv.git
+cd burundiarxiv
+python -m SimpleHTTPServer 8000
+```
 
 Open your favorite browser and hit [http://localhost:8000/](http://localhost:8000)
 
