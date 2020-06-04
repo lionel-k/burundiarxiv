@@ -2523,3 +2523,6 @@ label > .label-body {
 .fonts-loaded input[type="reset"],
 .fonts-loaded input[type="button"] {
   font-family: "Open Sans"; }
+img {
+  border-radius: 18px;
+}
