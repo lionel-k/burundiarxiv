@@ -15,7 +15,7 @@ You can contribute to this book by submiting your contribution directly to our t
 
 You can go through this [guide](https://opensource.guide/how-to-contribute/#opening-a-pull-request) to understand what all this means. Thanks in advance for your contribution.
 
-## To run the app in local Unix environment
+## To run the website in a local (Unix) environment
 
 `git clone git@github.com:lionel-k/burundiarxiv.git`
 `cd burundiarxiv`
